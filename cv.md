@@ -33,9 +33,6 @@ var countBits = function(n) {
 
 ## Courses
 1. ITEA HTML&CSS marathon *(complited)*
-
-<img src="https://user-images.githubusercontent.com/78952074/143017264-7d5da525-97e9-4994-bd8e-6290019b55b9.png" width=200>
-
 2. RS Schools Course «JavaScript/Front-end. Stage 0» *(in progress)*
 
 ## Languages
