@@ -1,12 +1,12 @@
 # Shevtsov Evgeniy
 
 ## My contacts:
-* Mail: yevgeniy.shevtsov.pblcb@mail.ru
-* GitHub: https://github.com/PblCbGomel
-* Telegram: @pblcb_ev
+* Mail: andrey.puzanov.ru@gmail.com
+* GitHub: https://github.com/Lalapolis
+* Telegram: @lalapolis
 
 ## About me
-I live in Minsk, but I used to live in Gomel. I'm graduated from high school and at the moment I’m studying in the second year of the Faculty of Applied Mathematics and Computer Sciences. 
+I live in Minsk. I'm graduated from high school and at the moment I’m studying in the second year of the Faculty of Applied Mathematics and Computer Sciences. 
 Of all the directions of IT I like front-end. I hope to do exactly what brings pleasure. Also, I do projects to improve the quality of education in my faculty. For example, I do extra couples with freshmen and I create a methodical "Google Disk" in various disciplines.
 
 
@@ -41,4 +41,4 @@ var countBits = function(n) {
 ## Languages
 * Russian *(native)*
 * Belarusian *(native)*
-* English *(A2+)*
+* English *(B2+)*
